@@ -1,0 +1,8 @@
+Compiling: 
+put the wifi-tracking directory with the backfire (openwrt) directory and do make
+
+Functionality: 
+-local rts injection
+-global rts injection
+-associated rts injection (associated with hostapd)
+-associated data injection (associated with hostapd)
